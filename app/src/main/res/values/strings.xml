@@ -2,4 +2,8 @@
     <string name="app_name">Icebreaker</string>
     <string name="author">gengar</string>
     <string name="title_activity_chat">ChatActivity</string>
+    <string name="discovery_fragment_title">discovery</string>
+    <string name="recent_chat_fragment_title">recent</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
