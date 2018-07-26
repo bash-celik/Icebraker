@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Icebreaker</string>
+    <string name="author">gengar</string>
+    <string name="title_activity_chat">ChatActivity</string>
 </resources>
