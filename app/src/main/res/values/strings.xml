@@ -4,6 +4,9 @@
     <string name="title_activity_chat">ChatActivity</string>
     <string name="discovery_fragment_title">discovery</string>
     <string name="recent_chat_fragment_title">recent</string>
+
+    <string name="user_status">lorme ipsum rapapapa</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

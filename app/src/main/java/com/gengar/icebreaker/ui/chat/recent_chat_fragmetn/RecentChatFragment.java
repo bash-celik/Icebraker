@@ -8,23 +8,16 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.gengar.icebreaker.R;
+import com.gengar.icebreaker.ui.base.BaseFragment;
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class RecentChatFragment extends Fragment {
+public class RecentChatFragment extends BaseFragment {
 
 
     public RecentChatFragment() {
         // Required empty public constructor
-    }
-
-
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
-        // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_recent_chat, container, false);
     }
 
 }
